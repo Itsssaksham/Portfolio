@@ -10,12 +10,12 @@ const education = [
     period: "2022 – 2026",
   },
   {
-    institution: "Indus Global School, Chandigarh",
+    institution: "Indus Global School, Mandi",
     degree: "Senior Secondary",
     period: "2021 – 2022",
   },
   {
-    institution: "Indus Global School, Chandigarh ",
+    institution: "Indus Global School, Mandi",
     degree: "Secondary",
     period: "2019 – 2020",
   },
