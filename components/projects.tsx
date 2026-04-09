@@ -9,24 +9,24 @@ const projects = [
   {
     title: "Personal Finance Dashboard",
     description:
-      "A lightweight dashboard to track income, expenses, investments, and overall net worth in one place. Includes financial trend analysis and spending visualizations.",
-    tech: ["Python", "Pandas", "CSV", "SQLite", "Matplotlib"],
+      "A full-stack personal finance management platform built with the MERN stack that helps users track expenses, investments, and net worth in one place. The application features secure JWT authentication, real-time portfolio calculations using live market data, and interactive dashboards with financial charts for better insights.",
+    tech: ["MongoDB, Express, React, Node.js, JWT authentication, TailwindCSS, Chart.js"],
     github: "https://github.com/Itsssaksham/PersonalFinanceDashboard",
     live: null,
   },
   {
     title: "AI Job Application Assistant",
     description:
-      "An automation tool that generates role-specific resumes and cover letters from job descriptions using AI, while tracking applications and timelines.",
-    tech: ["Python", "AI APIs", "Automation Scripts", "JSON", "YAML"],
+      "An AI-powered job application platform that generates personalized resumes and cover letters using the OpenAI API. Built with Next.js and PostgreSQL, the application includes GitHub OAuth authentication, a responsive dashboard for managing applications, and an intelligent system for creating tailored job application materials.",
+    tech: ["Next.js, React, Tailwind CSS, PostgreSQL, Prisma"],
     github: "https://github.com/Itsssaksham/Ai-Job-Application-Assistant",
     live: null,
   },
   {
     title: "File Compression Tool (Huffman Coding)",
     description:
-      "A command-line utility that compresses and decompresses files using Huffman coding, focusing on efficient encoding, decoding, and bit-level operations.",
-    tech: ["C++", "STL", "Trees", "Priority Queues", "Bit Manipulation"],
+      "A lossless file compression utility written in C++ that uses the Huffman coding algorithm to efficiently compress and decompress files. The project implements frequency analysis, priority queues, and tree-based encoding to generate optimal prefix codes and handle binary file processing.",
+    tech: ["C++, STL, Data Structures"],
     github: "https://github.com/Itsssaksham/File-Compression-Tool",
     live: null,
   },
