@@ -10,7 +10,7 @@ const projects = [
     title: "Personal Finance Dashboard",
     description:
       "A full-stack personal finance management platform built with the MERN stack that helps users track expenses, investments, and net worth in one place. The application features secure JWT authentication, real-time portfolio calculations using live market data, and interactive dashboards with financial charts for better insights.",
-    tech: ["MongoDB, Express, React, Node.js, JWT authentication, TailwindCSS, Chart.js"],
+    tech: ["MongoDB", "Express", "React", "Node.js", "JWT authentication", "TailwindCSS", "Chart.js"],
     github: "https://github.com/Itsssaksham/PersonalFinanceDashboard",
     live: null,
   },
@@ -18,7 +18,7 @@ const projects = [
     title: "AI Job Application Assistant",
     description:
       "An AI-powered job application platform that generates personalized resumes and cover letters using the OpenAI API. Built with Next.js and PostgreSQL, the application includes GitHub OAuth authentication, a responsive dashboard for managing applications, and an intelligent system for creating tailored job application materials.",
-    tech: ["Next.js, React, Tailwind CSS, PostgreSQL, Prisma"],
+    tech: ["Next.js", "React", "Tailwind CSS", "PostgreSQL", "Prisma"],
     github: "https://github.com/Itsssaksham/Ai-Job-Application-Assistant",
     live: null,
   },
@@ -26,7 +26,7 @@ const projects = [
     title: "File Compression Tool (Huffman Coding)",
     description:
       "A lossless file compression utility written in C++ that uses the Huffman coding algorithm to efficiently compress and decompress files. The project implements frequency analysis, priority queues, and tree-based encoding to generate optimal prefix codes and handle binary file processing.",
-    tech: ["C++, STL, Data Structures"],
+    tech: ["C++", "STL", "Data Structures"],
     github: "https://github.com/Itsssaksham/File-Compression-Tool",
     live: null,
   },
